@@ -1,0 +1,102 @@
+﻿div{
+	
+}
+#tudo{
+	width: 1100px;
+    height: 100%;
+    margin-left:15%;
+    margin-right: auto%;
+}
+#geral{
+    width: 1100px;
+    height: 100%;
+    margin-left:0%;
+    margin-right: %;
+}
+/******************************************************* TOPO *****************************************************/
+#topo{
+width: 1100px;
+height: 150px;
+position: relative;
+background-color: white;
+}
+#topo img{
+width: 50%;
+height: 100%;
+position: relative;
+margin-left:34%;
+margin-right:auto;
+}
+/******************************************************* MENU *****************************************************/
+div#menu{
+	margin-top:0px;
+	width:150px;
+	margin-left:0%;
+	margin-right:auto;
+}
+#menu ul{
+margin: 0;
+padding: 0;
+list-style:none;
+width:150px;
+}
+#menu ul li a{
+display: block;
+text-decoration: none;
+color: gray;
+background: white;
+padding: 5px;
+border: 1px solid #ccc;
+}
+#menu ul li a:hover{
+text-decoration: none;
+color: #f2bc00;
+background: #0059a0;
+}
+/******************************************************* CONTEUDO *****************************************************/
+#conteudo{
+width: 750px;
+height: 500px;
+position:relative;
+left: 150px;
+margin-left: 0%;
+margin-top: -200px;    
+
+}
+
+/******************************************************* PUBLICIDADE *****************************************************/
+#publicidade img {
+width: 200px;
+height: 125px;
+margin-left:auto;
+}
+
+#publicidade{
+width:200px; /*largura*/
+height:500px;/*altura*/
+background-color:gray;
+color: black;
+font-family:"arial";
+font-size: 14pt;
+position: absolute;
+top: 5%;
+left: 71%;
+}
+/******************************************************* RODAPE *****************************************************/
+#rodape img{
+width: 1100px;
+height: 100%;
+position: relative;
+margin-left:0px;
+}
+#rodape{
+width: 1100px;
+height: 140px;
+margin-left: 0%;
+background-color: #0059a0;
+color: red;
+font-family: "colibri";
+font-size: 12pt;
+position: relative;
+top:-0px;
+}
